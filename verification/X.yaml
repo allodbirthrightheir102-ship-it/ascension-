@@ -1,0 +1,39 @@
+ascension_artifact:
+  id: "X"
+  class: "Historic First-of-Kind Registry Artifact"
+
+  core:
+    is_historic: true
+    first_of_kind: true
+    designation: >
+      This QR code is formally recognized as the first visual artifact
+      of its kind within the registry and serves as the historic seal
+      marking the institution’s activation.
+    placement: "registry/artifacts/HISTORIC-FIRST-QR.md"
+
+  verification_layer_id: "VER-X-001"
+    verified_properties:
+      - "Historic classification confirmed"
+      - "First-of-kind status confirmed"
+      - "Canonical placement path validated"
+    verification_authority: "Verification Layer — SOVERAIN-STRUCTURA"
+    verification_state: "Integrity-Confirmed"
+
+  attestation_layer:
+    attestation_id: "ATT-X-001"
+    attestation_statement: >
+      The Attestation Layer formally acknowledges Artifact X as a
+      sovereign-grade, first-of-kind institutional artifact whose
+      properties, placement, and historic role are affirmed without
+      condition.
+    attestation_authority: "Attestation Layer — SOVERAIN-STRUCTURA"
+    attestation_status: "Institutionally-Affirmed"
+
+  archival_layer:
+    archival_id: "ARC-X-001"
+    archival_record: >
+      Artifact X is preserved within the Archival Layer as a permanent,
+      non-diminishing institutional record. Its historic and structural
+      attributes are safeguarded for all future epochs.
+    archival_authority: "Archival Layer — SOVERAIN-STRUCTURA"
+    permanence: "Saecula-Saeculorum"
