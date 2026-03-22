@@ -5,6 +5,8 @@ artifacts within SOVERAIN‑STRUCTURA. It implements the tri‑layer
 framework—Verification, Attestation, and Archival—ensuring each
 qualified artifact is elevated into sovereign‑grade permanence.
 
+![ASCENSION Artifact](image_1774136209019.jpeg)
+
 ## Repository Structure
 ascension/
   verification/
